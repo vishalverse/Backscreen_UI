@@ -130,7 +130,7 @@ fun CredProfileScreen() {
                 Spacer(modifier = Modifier.width(12.dp))
                 Column {
                     Text(
-                        "andaz Kumar",
+                        "Vishal Sharma",
                         color = Color.White,
                         fontSize = 18.sp,
                         fontWeight = FontWeight.Bold,
